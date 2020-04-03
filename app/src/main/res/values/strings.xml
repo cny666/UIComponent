@@ -6,4 +6,14 @@
     <string name="cancel">Cancel</string>
     <string name="sign">Sign in</string>
     <string name="touch">Touch Dialog</string>
+    <string name="size">字体大小</string>
+    <string name="common">普通菜单栏</string>
+    <string name="color">字体颜色</string>
+    <string name="small">小字体</string>
+    <string name="middle">中字体</string>
+    <string name="large">大字体</string>
+    <string name="red">红色</string>
+    <string name="black">黑色</string>
+    <string name="testContent">这是测试文本</string>
+
 </resources>
