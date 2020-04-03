@@ -54,13 +54,13 @@ public class MainActivity extends AppCompatActivity {
                 Toast toast=Toast.makeText(MainActivity.this,Animal[position],Toast.LENGTH_SHORT    );
                 toast.setGravity(Gravity.CENTER, 0, 0);
 
-/*                LinearLayout toastView = (LinearLayout) toast.getView();
+                LinearLayout toastView = (LinearLayout) toast.getView();
                 ImageView imageView = new ImageView(getApplicationContext());
                 imageView.setImageResource(R.drawable.dog);
 
                 toastView.setOrientation(LinearLayout.HORIZONTAL);
                 //ViewGroup 的 addView() 方法用于添加子 View，第一个参数是 要添加的 View， 第二个是添加的位置
-                toastView.addView(imageView, 1);*/
+                toastView.addView(imageView, 1);
 
                 toast.show();
             }
